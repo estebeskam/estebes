@@ -39,5 +39,9 @@ exit();
     </span>
   </div>
 </nav>
-     </body>
+<center>
+<br>
+<h1>If you want to buy pet or you're already have, but lost. <br><br> PetFinder will help you to find!</h1>
+ </center>    
+</body>
   </html>
